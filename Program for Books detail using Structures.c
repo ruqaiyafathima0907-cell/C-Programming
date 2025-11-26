@@ -17,8 +17,9 @@ struct books b3={"Success isn't easy","Harry",1050.00};
 printf("%s %s %2f",b3.title,b3.author,b3.price);
 struct books b4={"Burning chains","Maya",1000.00};
 printf("%s %s %2f",b4.title,b4.author,b4.price);
-struct books b5={"Broken wings","",1050.00};
+struct books b5={"Broken wings","Shanaya",1050.00};
 printf("%s %s %2f",b5.title,b5.author,b5.price);
   return 0;
 }
+
 
