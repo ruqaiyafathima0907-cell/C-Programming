@@ -1,8 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
-#include <stdio.h>
-
 int main()
 {
     int sub;
@@ -38,3 +35,4 @@ int main()
 
     return 0;
 }
+
